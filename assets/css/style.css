@@ -906,6 +906,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     transition: .5s;
 }
 
+
 .single-footer-widget ul li:hover {
     -webkit-transform: translateX(10px);
     -moz-transform: translateX(10px);
@@ -1013,8 +1014,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 
 /*.footer-copyright */
-
-
+   
 /*===============================
     Scroll Top
 ===============================*/
